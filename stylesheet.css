@@ -1,0 +1,101 @@
+
+body {
+    background-image: url("http://xboxhut.com/wp-content/uploads/2016/06/pastel-colors-background-tumblr-scandinavian-medium.png");
+    background-color: #cccccc;
+}
+
+.info {
+	font-size: 17px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 15px;
+	font-family: Arial;
+}
+
+.slika {
+	text-align: center;
+	background-color: gray;
+	opacity: .80;
+	height: 300px;
+	margin-top: -20px;	
+}
+
+.glyphicon-envelope:before {
+	margin-right: 10px;
+}
+
+.glyphicon-map-marker:before {
+	margin-right: 10px;
+}
+
+.glyphicon-phone-alt:before {
+	margin-right: 10px;
+}
+
+.glyphicon-time:before {
+	margin-right: 10px;
+}
+
+.zaposleni {
+	margin-top: 20px;
+	border-style: hidden;
+	margin-bottom: 30px;
+}
+
+.line {
+	width: 60%;
+	border-color: black;
+}
+
+h1, h4 {
+	text-align: center;
+	font-family: Arial;
+	color: #6f6d85;
+}
+
+.frizerstvo {
+	margin-bottom: 50px;
+	font-size: 17px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+.brivstvo {
+	margin-bottom: 50px;
+	font-size: 17px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+.cenik {
+	margin-bottom: 50px;
+	font-size: 17px;
+}
+
+.tablecenik {
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.rezervacija {
+	text-align: center;
+	font-family: Arial;
+}
+
+.form-group {
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+h3 {
+	margin-left: 20px;
+}
+
+.col-md-3 {
+	margin-left: 350px;
+}
